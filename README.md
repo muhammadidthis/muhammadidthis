@@ -1,6 +1,9 @@
 # Hi there, Geeks! 👋 
 
-![Excited GIF](./batman-batman-the-animated-series.gif)
+<div align="center">
+  <img src="./batman-batman-the-animated-series.gif" alt="Excited GIF" width="300"/>
+</div>
+
 
 ### 👨‍💻 About Me
 - 🎓 3rd-year Software Engineering student at **University of Malaya**.
