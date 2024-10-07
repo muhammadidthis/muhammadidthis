@@ -53,7 +53,7 @@ In the Software Maintenance and Evolution course, I expect to learn the principl
 ### 📫 Connect with Me
 - **LinkedIn**: [My LinkedIn](https://linkedin.com/in/abdullahtaludkerse)
 - **Instagram**: [@muhammadidthis](https://instagram/muhammadidthis)
-- **Email**: [Email](abdullahtalukder46@gmail.com)
+- **Email**: [abdullahtalukder46@gmail.com](abdullahtalukder46@gmail.com)
 
 <!--### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) -->
