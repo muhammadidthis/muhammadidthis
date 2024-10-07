@@ -1,7 +1,7 @@
 # Hi there, Geeks! 👋 
 
 <div align="center">
-  <img src="./when-the-coding.gif" alt="Excited GIF" width="600"/>
+  <img src="./when-the-coding.gif" alt="Excited GIF" width="400"/>
 </div>
 
 
