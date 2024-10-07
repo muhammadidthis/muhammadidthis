@@ -1,5 +1,7 @@
 # Hi there, Geeks! 👋 
 
+![Header](https://tenor.com/search/batmobile-gifs)
+
 ### 👨‍💻 About Me
 - 🎓 3rd-year Software Engineering student at **University of Malaya**.
 - 🌱 Currently exploring **Optical Character Recognition**
