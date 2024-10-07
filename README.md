@@ -11,6 +11,10 @@
 - 💻 Passionate about creating user-friendly apps and solving complex problems.
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
 
+### Expections of joining SME course:
+**Techniques for Code Refactoring 🛠️**: Understanding how to improve existing code without altering its external behavior.
+
+
 ### 🔭 Current unfinished Projects
 - **UV Awareness App**: Android app to educate users on UV rays and recommend sunscreen protection based on skin types.
 - **PDF Translator**: A tool to translate PDF of any language into English using OCR
