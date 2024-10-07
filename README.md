@@ -1,6 +1,6 @@
 # Hi there, Geeks! 👋 
 
-<div class="tenor-gif-embed" data-postid="24661071" data-share-method="host" data-aspect-ratio="1.3278" data-width="100%"><a href="https://tenor.com/view/batman-batman-the-animated-series-batman-tas-classic-badass-gif-24661071">Batman Batman The Animated Series GIF</a>from <a href="https://tenor.com/search/batman-gifs">Batman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Excited GIF](https://tenor.com/view/batman-batman-the-animated-series-batman-tas-classic-badass-gif-24661071)
 
 ### 👨‍💻 About Me
 - 🎓 3rd-year Software Engineering student at **University of Malaya**.
