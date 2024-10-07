@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Abdullah Talukder
 
 ### 👨‍💻 About Me
-- 🎓 3rd-year Software Engineering student at **University of Malaya**.!
+- 🎓 3rd-year Software Engineering student at **University of Malaya**.
 - 🌱 Currently exploring **Optical character recognition**
 - 💻 Passionate about creating user-friendly apps and solving complex problems.
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
