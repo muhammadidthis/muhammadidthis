@@ -1,7 +1,7 @@
 # Hi there, Geeks! 👋 
 
 <div align="center">
-  <img src="./batman-batman-the-animated-series.gif" alt="Excited GIF" width="300"/>
+  <img src="./batman-batman-the-animated-series.gif" alt="Excited GIF" width="600"/>
 </div>
 
 
