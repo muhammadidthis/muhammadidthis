@@ -11,7 +11,7 @@
 - 💻 Passionate about creating user-friendly apps and solving complex problems.
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
 
-###✨What I expect to learn from **WIF3005 SOFTWARE MAINTENANCE AND EVOLUTION✨**
+### ✨What I expect to learn from **WIF3005 SOFTWARE MAINTENANCE AND EVOLUTION**
 
 In the Software Maintenance and Evolution course, I expect to learn the principles and practices essential for maintaining and evolving software systems. One of my primary goals is to understand techniques for code refactoring, which will allow me to improve existing code without altering its external behavior. Additionally, I expect to master version control tools and strategies, as they are crucial for managing changes to software projects over time.
 
