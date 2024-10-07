@@ -7,10 +7,13 @@
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
 
 ### 🔭 Current unfinished Projects
-- **UV Awareness App**: Android app to educate users on UV rays and recommend sunscreen protection.
-- **PDF Translator**: A tool to translate PDF text into English and replace the original text with the translated version.
-- **Weather App**: Working on a weather app for detailed climate data and daily forecasts.
+- **UV Awareness App**: Android app to educate users on UV rays and recommend sunscreen protection based on skin types.
+- **PDF Translator**: A tool to translate PDF of any language into English using OCR
 
+### 🔭 Projects I worked on:
+- **Machine Learning in Healthcare**: Predictive Analytics for Patient Readmission
+- **Stock Trading Web Application**: Stock trading platform with real time stocks
+- **Entreprenuer Hub**: A social platfrom for Entreprenuers to connect mentors and investors
 ### 🛠️ Skills
 - **Languages**:
 <p>
@@ -38,8 +41,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tesseract/tesseract-original.svg" alt="Tesseract" width="40" height="40"/>  
 </p> 
-- **Other**: 
+
 
 ### 📫 Connect with Me
 - **LinkedIn**: [My LinkedIn](https://linkedin.com/in/abdullahtaludkerse)
