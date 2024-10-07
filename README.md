@@ -68,4 +68,4 @@ In the Software Maintenance and Evolution course, I expect to learn the principl
 Thanks for stopping by! 😊 Let's connect and create something amazing together.
 
 You can view my personalized GitHub profile
-[here](github.com/muhammadidthis)
+[here](https://github.com/muhammadidthis)
