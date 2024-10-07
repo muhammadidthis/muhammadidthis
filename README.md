@@ -4,17 +4,11 @@
   <img src="./when-the-coding.gif" alt="Excited GIF" width="400"/>
 </div>
 
-
 ### 👨‍💻 About Me
 - 🎓 3rd-year Software Engineering student at **University of Malaya**.
 - 🌱 Currently exploring **Optical Character Recognition**
 - 💻 Passionate about creating user-friendly apps and solving complex problems.
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
-
-### ✨What I expect to learn from **WIF3005 SOFTWARE MAINTENANCE AND EVOLUTION**
-
-In the Software Maintenance and Evolution course, I expect to learn the principles and practices essential for maintaining and evolving software systems. One of my primary goals is to understand techniques for code refactoring, which will allow me to improve existing code without altering its external behavior. Additionally, I expect to master version control tools and strategies, as they are crucial for managing changes to software projects over time.
-
 
 ### 🔭 Current unfinished Projects
 - **UV Awareness App**: Android app to educate users on UV rays and recommend sunscreen protection based on skin types.
