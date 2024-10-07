@@ -67,4 +67,5 @@ In the Software Maintenance and Evolution course, I expect to learn the principl
 
 Thanks for stopping by! 😊 Let's connect and create something amazing together.
 
-Github Profile : [muhammdidthis](github.com/muhammadidthis)
+You can view my personalized GitHub profile
+[here](github.com/muhammadidthis)
