@@ -21,6 +21,7 @@
 </p>
 
 - **Web Development**:
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -28,20 +29,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+</p>
 
 - **Tools & Technologies**:
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
- 
+</p> 
 - **Other**: 
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/abdullahtaludkerse)
-- **Instagram**: [@YourTwitterHandle](https://instagram/muhammadidthis)
-- **Email**: [your.email@example.com](abdullahtalukder46@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/abdullahtaludkerse)
+- **Instagram**: [My Instagram](https://instagram/muhammadidthis)
+- **Email**: [My Email](abdullahtalukder46@gmail.com)
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
