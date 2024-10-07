@@ -54,7 +54,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) -->
 
 ### 🌱 Fun Facts
-- 🇱🇰 I enjoy Sri Lankan snacks, especially coconut-based treats!
+- I enjoy Sri Lankan <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Sri_Lanka.svg" alt="Sri Lankan Flag" width="40" height="40"/>
+ snacks, especially coconut-based treats!
 - 🎵 Big fan of **The Weeknd**’s music.
 - 🧠 Interested in non-coding career paths that leverage my technical skills and creativity.
 
