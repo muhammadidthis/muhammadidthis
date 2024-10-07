@@ -1,6 +1,6 @@
 # Hi there, Geeks! 👋 
 
-![Excited GIF](https://tenor.com/view/batman-batman-the-animated-series-batman-tas-classic-badass-gif-24661071)
+![Excited GIF]([https://tenor.com/view/batman-batman-the-animated-series-batman-tas-classic-badass-gif-24661071](https://media1.tenor.com/m/vx3a6DccMusAAAAd/batman-batman-the-animated-series.gif))
 
 ### 👨‍💻 About Me
 - 🎓 3rd-year Software Engineering student at **University of Malaya**.
