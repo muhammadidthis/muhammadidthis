@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Muhammad Abdullah Talukder
 
 ### 👨‍💻 About Me
-- 🎓 3rd-year Software Engineering student at **University of Malaya**.
-- 🌱 Currently exploring **Android Development** and working on a **UV ray awareness app**.
+- 🎓 3rd-year Software Engineering student at **University of Malaya**. ![University of Malaya Logo](https://banner2.cleanpng.com/20181115/urf/kisspng-university-of-malaya-doel-logo-brand-5bed619fe01558.2970360615422836799179.jpg)
+- 🌱 Currently exploring **Optical character recognition**
 - 💻 Passionate about creating user-friendly apps and solving complex problems.
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
 
@@ -46,8 +46,8 @@
 - **Instagram**: [@muhammadidthis](https://instagram/muhammadidthis)
 - **Email**: [Email](abdullahtalukder46@gmail.com)
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+<!--### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical) -->
 
 ### 🌱 Fun Facts
 - 🇱🇰 I enjoy Sri Lankan snacks, especially coconut-based treats!
