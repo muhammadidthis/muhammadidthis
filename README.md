@@ -18,7 +18,7 @@
 - **Adorable Cat Timer**: Have the Supreme Cat Lord of Cuteness by your side and get rewarded for your time!
 - **Machine Learning in Healthcare**: Predictive Analytics for Patient Readmission
 - **Stock Trading Web Application**: Stock trading platform with real time stocks
-- - **Student Databse Engine**: An android app used to store student diary.
+- **Student Databse Engine**: An android app used to store student diary.
 - **Entreprenuer Hub**: A social platfrom for Entreprenuers to connect mentors and investors
 ### 🛠️ Skills
 - **Languages**:
