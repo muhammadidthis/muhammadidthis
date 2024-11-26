@@ -15,6 +15,7 @@
 - **PDF Translator**: A tool to translate PDF of any language into English using OCR
 
 ### 🔭 Projects I worked on:
+- **Adorable Cat Timer**: Have the Supreme Cat Lord of Cuteness by your side and get rewarded for your time!
 - **Machine Learning in Healthcare**: Predictive Analytics for Patient Readmission
 - **Stock Trading Web Application**: Stock trading platform with real time stocks
 - **Entreprenuer Hub**: A social platfrom for Entreprenuers to connect mentors and investors
