@@ -11,10 +11,10 @@
 - 🧑‍🏫 Tutor at **Superprof** for O-Level Maths and **Java programming** for university students.
 
 ### 🔭 Current unfinished Projects
-- **UV Awareness App**: Android app to educate users on UV rays and recommend sunscreen protection based on skin types.
 - **PDF Translator**: A tool to translate PDF of any language into English using OCR
 
 ### 🔭 Projects I worked on:
+- **UV Awareness App**: Android app to educate users on UV rays and recommend sunscreen protection based on skin types.
 - **Adorable Cat Timer**: Have the Supreme Cat Lord of Cuteness by your side and get rewarded for your time!
 - **Machine Learning in Healthcare**: Predictive Analytics for Patient Readmission
 - **Stock Trading Web Application**: Stock trading platform with real time stocks
